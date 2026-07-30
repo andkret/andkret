@@ -30,10 +30,12 @@ The [Cookbook](https://github.com/andkret/Cookbook) is my free 80+ page introduc
 
 Not everything is behind a paywall. My [Free Labs](https://learndataengineering.com/p/free-labs) are short, hands-on projects built around real tools from the modern data stack, each one with videos, code, and architecture diagrams you can follow step by step. Some of the labs currently up:
 
-- **[Building Advanced Pipelines with Kestra on GCP](https://github.com/andkret/Kestra-Workflow-Orchestration)**: orchestration with Kestra, Cloud Storage, BigQuery, and Pub/Sub
+- 🆕 **[High-Performance Data Analysis with Exasol](https://learndataengineering.com/p/high-performance-data-analysis-with-exasol)**: run Python UDFs, ML models, and LLMs directly inside a massively parallel analytics database
 - **[Spark Declarative Pipelines and Lakeflow Designer on Databricks](https://github.com/andkret/Databricks-Free-Declarative-Pipelines)**: moving from notebooks to production-ready pipelines
+- **[Building Advanced Pipelines with Kestra on GCP](https://github.com/andkret/Kestra-Workflow-Orchestration)**: orchestration with Kestra, Cloud Storage, BigQuery, and Pub/Sub
 - **[DuckDB for Data Engineers](https://github.com/andkret/MotherDuck-DuckDB-Course)**: from local to cloud with MotherDuck
-- **Python for Data Engineers** and **[Docker Fundamentals](https://github.com/andkret/Udemy-Docker-Fundamentals)**
+- **[Docker Fundamentals](https://github.com/andkret/Udemy-Docker-Fundamentals)**: containers from the ground up for data workloads
+- **[Python for Data Engineers](https://learndataengineering.com/p/python-for-data-engineers)**: the Python foundations you need for data engineering work
 
 <p align="left">
   <a href="https://learndataengineering.com/p/free-labs"><img src="https://img.shields.io/badge/Get%20the%20Free%20Labs-1E88E5?style=for-the-badge" alt="Get the Free Labs"></a>
