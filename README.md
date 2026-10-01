@@ -31,7 +31,7 @@ The [Cookbook](https://github.com/andkret/Cookbook) is my free 80+ page introduc
 Not everything is behind a paywall. My [Free Labs](https://learndataengineering.com/p/free-labs) are short, hands-on projects built around real tools from the modern data stack, each one with videos, code, and architecture diagrams you can follow step by step. Some of the labs currently up:
 
 - 🆕 **[Databricks Data Quality Monitoring with Zapier](https://github.com/andkret/Zapier-MCP-SDK-and-Databricks)**: build a dashboard, email the right owner, and let Claude answer your data quality questions
-- 🆕 **[High-Performance Data Analysis with Exasol](https://github.com/andkret/exasol-personal)**: run Python UDFs, ML models, and LLMs directly inside a massively parallel analytics database
+- **[High-Performance Data Analysis with Exasol](https://github.com/andkret/exasol-personal)**: run Python UDFs, ML models, and LLMs directly inside a massively parallel analytics database
 - **[Spark Declarative Pipelines and Lakeflow Designer on Databricks](https://github.com/andkret/Databricks-Free-Declarative-Pipelines)**: moving from notebooks to production-ready pipelines
 - **[Building Advanced Pipelines with Kestra on GCP](https://github.com/andkret/Kestra-Workflow-Orchestration)**: orchestration with Kestra, Cloud Storage, BigQuery, and Pub/Sub
 - **[DuckDB for Data Engineers](https://github.com/andkret/MotherDuck-DuckDB-Course)**: from local to cloud with MotherDuck
