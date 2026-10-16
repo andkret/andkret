@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Andreas 👋</h1>
 
 <p align="center">
-  I teach Data Engineering and AI Engineering, and I'm the founder of the <a href="https://learndataengineering.com">Learn Data Engineering Academy</a>.
+  I teach Data Engineering and AI Engineering, and I'm the founder of the <a href="https://go.learndataengineering.com/k3dzbsxp">Learn Data Engineering Academy</a>.
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ The [Cookbook](https://github.com/andkret/Cookbook) is my free 80+ page introduc
 
 ## 🧪 Free Labs
 
-Not everything is behind a paywall. My [Free Labs](https://learndataengineering.com/p/free-labs) are short, hands-on projects built around real tools from the modern data stack, each one with videos, code, and architecture diagrams you can follow step by step. Some of the labs currently up:
+Not everything is behind a paywall. My [Free Labs](https://go.learndataengineering.com/r9byrdqh) are short, hands-on projects built around real tools from the modern data stack, each one with videos, code, and architecture diagrams you can follow step by step. Some of the labs currently up:
 
 - 🆕 **[Databricks Data Quality Monitoring with Zapier](https://github.com/andkret/Zapier-MCP-SDK-and-Databricks)**: build a dashboard, email the right owner, and let Claude answer your data quality questions
 - **[High-Performance Data Analysis with Exasol](https://github.com/andkret/exasol-personal)**: run Python UDFs, ML models, and LLMs directly inside a massively parallel analytics database
@@ -36,20 +36,20 @@ Not everything is behind a paywall. My [Free Labs](https://learndataengineering.
 - **[Building Advanced Pipelines with Kestra on GCP](https://github.com/andkret/Kestra-Workflow-Orchestration)**: orchestration with Kestra, Cloud Storage, BigQuery, and Pub/Sub
 - **[DuckDB for Data Engineers](https://github.com/andkret/MotherDuck-DuckDB-Course)**: from local to cloud with MotherDuck
 - **[Docker Fundamentals](https://github.com/andkret/Udemy-Docker-Fundamentals)**: containers from the ground up for data workloads
-- **[Python for Data Engineers](https://learndataengineering.com/p/python-for-data-engineers)**: the Python foundations you need for data engineering work
+- **[Python for Data Engineers](https://go.learndataengineering.com/cxzqhhxw)**: the Python foundations you need for data engineering work
 
 <p align="left">
-  <a href="https://learndataengineering.com/p/free-labs"><img src="https://img.shields.io/badge/Get%20the%20Free%20Labs-1E88E5?style=for-the-badge" alt="Get the Free Labs"></a>
+  <a href="https://go.learndataengineering.com/r9byrdqh"><img src="https://img.shields.io/badge/Get%20the%20Free%20Labs-1E88E5?style=for-the-badge" alt="Get the Free Labs"></a>
 </p>
 
 ## 🎓 Learn Data Engineering Academy
 
-I run the [Learn Data Engineering Academy](https://learndataengineering.com/p/academy), 30+ courses covering everything from data engineering fundamentals to full AI engineering projects. Thousands of students have gone through it, and it's not a "watch videos and hope for the best" kind of course. Every course comes with real projects on AWS, Azure, and GCP, using tools like Spark, Kafka, Airflow, dbt, and Databricks.
+I run the [Learn Data Engineering Academy](https://go.learndataengineering.com/bgmdqp2a), 30+ courses covering everything from data engineering fundamentals to full AI engineering projects. Thousands of students have gone through it, and it's not a "watch videos and hope for the best" kind of course. Every course comes with real projects on AWS, Azure, and GCP, using tools like Spark, Kafka, Airflow, dbt, and Databricks.
 
 If you want the full picture of what's inside:
 
 <p align="left">
-  <a href="https://learndataengineering.com/p/academy"><img src="https://img.shields.io/badge/Join%20the%20Academy-2E8B57?style=for-the-badge" alt="Join the Academy"></a>
+  <a href="https://go.learndataengineering.com/bgmdqp2a"><img src="https://img.shields.io/badge/Join%20the%20Academy-2E8B57?style=for-the-badge" alt="Join the Academy"></a>
 </p>
 
 ## 📌 Pinned repos worth a look
